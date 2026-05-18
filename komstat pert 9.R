@@ -8,4 +8,3 @@ mtcars$mpg
 length(mtcars$mpg)
 plot(mtcars$mpg, mtcars$cyl)
 barplot(mtcars$mpg)
-summary(mtcars)
