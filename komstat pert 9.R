@@ -1,9 +1,3 @@
-summary(mtcars)
-mean (mtcars$mpg)
-sd(mtcars$mpg)
-max(mtcars$mpg)
-min(mtcars$mpg)
-mtcars$mpg
-length(mtcars$mpg)
 plot(mtcars$mpg, mtcars$cyl)
 barplot(mtcars$mpg, mtcars$cyl)
+barplot(mtcars$mpg, mtcars$qsec)
